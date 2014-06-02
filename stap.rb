@@ -5,7 +5,7 @@ while loop
 	print foo + "細胞"
 	n = n + 1
 	if foo == "STAP"
-		print "\n", n, "'回目でSTAP細胞は見つかりました☆"
+		print "\n", n, "回目でSTAP細胞は見つかりました☆"
 		break
 	end
 end
